@@ -1,3 +1,3 @@
-# 0.1.0+1
+# 0.1.0+2
 
-- Thé necessary project starter components.
+- The necessary project starter components.
